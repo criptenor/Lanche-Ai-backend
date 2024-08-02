@@ -22,3 +22,12 @@ O sistema Lanche Ai foi desenvolvido para facilitar a gestão de pedidos, integr
 ### Chatbot Inteligente
 
 - **Vendas e Gestão de Pedidos**: Implementação de um chatbot inteligente para auxiliar nas vendas e na gestão de pedidos, proporcionando um atendimento rápido e eficiente aos clientes.
+
+
+## Contato
+
+Para mais informações ou dúvidas, entre em contato com a equipe de desenvolvimento através do [criptenor@gmail.com] ou pelo WhatsApp [21980856675].
+
+## Frontend do Projeto
+
+Para acessar o repositório do frontend do projeto Lanche Ai, visite: [Lanche Ai Frontend](https://github.com/criptenor/Lanche-Ai-Frontend.git)
